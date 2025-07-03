@@ -1,0 +1,11 @@
+{
+    "names" : [
+        {"first":"anas", "last": "amellah", "age": 25},
+        {"first":"rachid", "last": "ohamo", "age": 30},
+        {"first":"sami", "last": "taktouch", "age": 20}
+    ],
+    "games":[
+        {"name":"fstga", "size": 20},
+        {"name":"GTA", "size": 100}
+    ]
+}
